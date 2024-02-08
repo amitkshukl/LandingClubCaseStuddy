@@ -58,7 +58,7 @@ off as we have seen in our analysis .
 
 
 ## Contact
-Created by Amit Shukla - feel free to contact us!
+Created by Amit Shukla - feel free to contact me!
 
 
 <!-- Optional -->
